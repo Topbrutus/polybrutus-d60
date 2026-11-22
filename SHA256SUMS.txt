@@ -1,0 +1,4 @@
+# SHA256 of original public Zenodo artifacts DOI 10.5281/zenodo.24431598
+61e89d9923d214df70bf0197129773d173f68a1b52c153712ed00e6004354bed  publication/POLYBRUTUS_60D_NOTE.pdf
+90f87e839256bd095eb599a70c2fbbf05cf3e53ce39b18bfe18fcf2aa83a0eda  [original frozen Git scientific tag ZIP] POLYBRUTUS_D60_SOURCE_v0.1.0_GITHUB_TAG.zip
+9728ea783514a7be5132b6ee535402d06cddeb5455cbd25b0778dfaf59b1760c  results/certificate_d60.json
